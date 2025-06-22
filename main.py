@@ -1,2 +1,1 @@
-print("I am a SWE")
-print("I am a CSE undergraduate")
+print("Now I am trying to test my git push from colab is working or not")
